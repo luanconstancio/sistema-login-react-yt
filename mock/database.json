@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "nome": "Juca",
+      "password": "senha123"
+    },
+    {
+      "id": "f49f",
+      "nome": "Luan",
+      "telefone": "41989898988",
+      "email": "luanconstancioprado@gmail.com",
+      "password": "sssssss"
+    },
+    {
+      "id": "d46d",
+      "nome": "Luan",
+      "telefone": "41989898989",
+      "email": "luanconstancioprado@gmail.com",
+      "password": "senha123"
+    },
+    {
+      "id": "ffaa",
+      "nome": "Luan",
+      "telefone": "41989898989",
+      "email": "luanconstancioprado@gmail.com",
+      "password": "senha123"
+    },
+    {
+      "id": "c15f",
+      "nome": "Luan",
+      "telefone": "4198989898",
+      "email": "luanconstancioprado@gmail.com",
+      "password": "senha123"
+    }
+  ],
+  "login": {
+    "token": {
+      "token": "aaabbbccc"
+    },
+    "user": {
+      "id": "31fb",
+      "nome": "Luan",
+      "email": "luanconstancioprado@gmail.com",
+      "password": "sssssss"
+    }
+  }
+}
